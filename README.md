@@ -1,6 +1,3 @@
-Certainly! Here’s a comprehensive README file content for your GitHub repository:
-
----
 
 # Text to Speech Converter
 
