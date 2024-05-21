@@ -1,4 +1,4 @@
-// Represents a sound model with its name and URL
+// Represents a sound model with its name and URL 
 export interface SoundModel {
   name: string; // The name of the sound model
   url: string;  // The URL to the model for generating sound
