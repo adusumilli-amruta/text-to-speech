@@ -1,4 +1,4 @@
-// An SVG animation that represents a loading spinner
+// An SVG animation that represents a loading spinner 
 export default function Loader(){
     return <svg className="w-20 h-20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <circle cx="12" cy="2" r="0" fill="#000000">
